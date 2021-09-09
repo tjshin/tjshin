@@ -2,4 +2,4 @@
 ---
 - 비전공 초보
 
-![열심히 하자](C:\Users\SKKTJ\Desktop\hdp.gif)
+![열심히 하자](C:\Users\SKKTJ\Desktop\profile\hdp.gif)
